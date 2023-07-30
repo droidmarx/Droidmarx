@@ -22,5 +22,5 @@
   <img align="center" alt="csc-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <br>
   
-  <img align="right" alt="github-robotic" src="https://farm8.staticflickr.com/7881/31914878607_25f295492a_o.gif">
+  <img align="right" alt="github-profile" src="https://farm8.staticflickr.com/7881/31914878607_25f295492a_o.gif">
 </div>
