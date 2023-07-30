@@ -1,6 +1,7 @@
-### Olá, eu sou o Guilherme Marques 👋 !
+### Ola 👋 <br>
+Prazer, eu sou o Guilherme Marques !
 
-Atualmente estudo javascript, com o objetivo de me tornar um desenvolvedor front-end, estou me aperfeiçoando a cada dia, 
+Atualmente venho estudando programação com o objetivo de me tornar um desenvolvedor front-end, estou me aperfeiçoando a cada dia, aprendendo novas técnicas, me facino pela programação des de novo !
 
 
  <div>
