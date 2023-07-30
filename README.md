@@ -1,5 +1,7 @@
 ### Olá, eu sou o Guilherme Marques 👋 !
 
+Atualmente estudo javascript, com o objetivo de me tornar um desenvolvedor front-end, estou me aperfeiçoando a cada dia, 
+
 
  <div>
   <a href="https://github.com/droidmarx">
