@@ -2,7 +2,7 @@
 
 Prazer, eu sou o Guilherme Marques !
 
-Atualmente venho estudando programação com o objetivo de me tornar um desenvolvedor front-end, estou me aperfeiçoando a cada dia, aprendendo novas técnicas, me facino pela programação des de novo !
+Atualmente venho estudando programação com o objetivo de me tornar um desenvolvedor front-end, estou me aperfeiçoando a cada dia, aprendendo novas técnicas.
 
 
  <div>
