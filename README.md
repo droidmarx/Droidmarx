@@ -29,6 +29,8 @@ Aqui estão alguns dos meus projetos recentes:
 
 - [EstoqueControl](https://github.com/droidmarx/EstoqueControl) - Sistema de controle de estoque com uma interface intuitiva e funcional. 
 - [EstoqueControl Web App](https://estoque-control.vercel.app/) - Aplicação web do sistema de controle de estoque, disponível online.
+- [MapChat](https://github.com/droidmarx/MapChat) - Aplicação de chat com geolocalização em tempo real.
+- [MQFLIX](https://github.com/droidmarx/MQFLIX) - Aplicação de streaming de vídeos com uma interface similar ao Netflix.
 
 ## 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/guimqs?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
