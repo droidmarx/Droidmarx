@@ -28,7 +28,6 @@ Atualmente, estou estudando programação com o objetivo de me tornar um desenvo
 Aqui estão alguns dos meus projetos recentes:
 
 - [EstoqueControl](https://github.com/droidmarx/EstoqueControl) - Sistema de controle de estoque com uma interface intuitiva e funcional. 
-- [EstoqueControl Web App](https://estoque-control.vercel.app/) - Aplicação web do sistema de controle de estoque, disponível online.
 - [MapChat](https://github.com/droidmarx/MapChat) - Aplicação de chat com geolocalização em tempo real.
 - [MQFLIX](https://github.com/droidmarx/MQFLIX) - Aplicação de streaming de vídeos com uma interface similar ao Netflix.
 
