@@ -31,7 +31,7 @@ Aqui estão alguns dos meus projetos recentes:
 - [EstoqueControl Web App](https://estoque-control.vercel.app/) - Aplicação web do sistema de controle de estoque, disponível online.
 
 ## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/guilherme-marques)
-- [E-mail](mailto:seuemail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/guimqs?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [E-mail](mailto:droidmarx@gmail.com)
 
 Fique à vontade para me contatar caso tenha alguma dúvida ou sugestão!
