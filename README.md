@@ -35,4 +35,11 @@ Aqui estão alguns dos meus projetos recentes:
 - [LinkedIn](https://www.linkedin.com/in/guimqs?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [E-mail](mailto:droidmarx@gmail.com)
 
+<div align="center">
+  <br>
+  <p align="center"><b>Contador de Visitantes</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{droidmarx}/count.svg" /></p> 
+  <br>
+</div>
+
 Fique à vontade para me contatar caso tenha alguma dúvida ou sugestão!
