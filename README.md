@@ -1,46 +1,54 @@
-# Olá 👋 
+# Guilherme Marques
 
-Prazer, eu sou o Guilherme Marques!
+**Desenvolvedor Front-end** | Transição de carreira  
+Técnico de Telecom/Fibra → Desenvolvedor de Software
 
-Atualmente, estou estudando programação com o objetivo de me tornar um desenvolvedor front-end. Estou me aperfeiçoando a cada dia, aprendendo novas técnicas e desenvolvendo projetos desafiadores.
+Indaiatuba - SP | [LinkedIn](https://www.linkedin.com/in/guimqs) | droidmarx@gmail.com
 
-<div align="center">
-  <a href="https://github.com/droidmarx">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=droidmarx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <br>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=droidmarx&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
+---
 
-## 📋 Habilidades
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+### Sobre mim
 
-<br>
+Venho de 3+ anos de experiência prática como **Técnico de Instalação e Reparo** na área de telecomunicações (Claro / NET-Embratel).  
+Hoje estou em transição para o desenvolvimento de software, com foco em **Front-end** e construção de ferramentas reais para operação de campo e gestão de serviços.
 
-<img alt="Coder GIF" height="250" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+Meu diferencial é unir o conhecimento operacional do dia a dia técnico com a capacidade de criar soluções web práticas e utilizáveis.
 
-## 📂 Projetos
-Aqui estão alguns dos meus projetos recentes:
+---
 
-- [EstoqueControl](https://github.com/droidmarx/EstoqueControl) - Sistema de controle de estoque com uma interface intuitiva e funcional. 
-- [MapChat](https://github.com/droidmarx/MapChat) - Aplicação de chat com geolocalização em tempo real.
-- [MQFLIX](https://github.com/droidmarx/MQFLIX) - Aplicação de streaming de vídeos com uma interface similar ao Netflix.
+### Stack principal
 
-## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/guimqs?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [E-mail](mailto:droidmarx@gmail.com)
+`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS` `Sass`  
+`PWA` `MockAPI` `Vercel`
 
-<div align="center">
-  <br>
-  <p align="center"><b>Contador de Visitantes</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{droidmarx}/count.svg" /></p> 
-  <br>
-</div>
+---
 
-Fique à vontade para me contatar caso tenha alguma dúvida ou sugestão!
+### Projetos em destaque
+
+| Projeto | Descrição | Stack | Demo |
+|---------|-----------|-------|------|
+| **[I Lash Studio](https://github.com/droidmarx/ilash-studio)** | Sistema completo de agenda premium (calendário, financeiro, anamnese digital + bot Telegram) | Next.js · TypeScript · Tailwind | [Live](https://ilash-studio.vercel.app) |
+| **[Monitor Operacional](https://github.com/droidmarx/monitor)** | PWA de gestão de ordens de serviço para equipes de campo (telecom/fibra) | HTML · CSS · JS · PWA | [Live](https://monitor-liard-eta.vercel.app) |
+| **[ToolKit](https://github.com/droidmarx/ToolKit)** | Conjunto de ferramentas web | Next.js · TypeScript | [Live](https://tool-kit-one.vercel.app) |
+| **[Toteem](https://github.com/droidmarx/toteem)** | Sistema de chamada de senhas (totem + guichês + painel) | HTML · JS · MockAPI | [Live](https://toteem.vercel.app) |
+| **[EstoqueControl](https://github.com/droidmarx/EstoqueControl)** | Controle de estoque e OS para técnicos de campo | HTML · JS | [Live](https://estoque-control.vercel.app) |
+
+---
+
+### Experiência relevante
+
+- **Indaiafibra** — Atuação atual  
+- **Claro Brasil** — Técnico IAT II (2018 – 2021)  
+- **Procisa do Brasil** — Técnico de Instalação (destaque técnico)
+
+---
+
+### Formação e certificações
+
+- NLW Journey Fullstack — Rocketseat (2024)  
+- Cursos de HTML, CSS, Git e Lógica de Programação — DIO  
+- Análise e Desenvolvimento de Sistemas — UNIP (cursando)
+
+---
+
+*"Construindo ferramentas digitais para quem está na rua resolvendo problema de verdade."*
